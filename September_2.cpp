@@ -9,7 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
+// link -> https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 // Average of Levels in Binary Tree
 class Solution {
 public:
