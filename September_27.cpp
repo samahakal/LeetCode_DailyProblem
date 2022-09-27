@@ -94,7 +94,7 @@ public:
 
 
 
-//  solution 2 -> O(n) and O(1)
+//  solution 2 -> O(n) 
 class Solution {
 public:
     string pushDominoes(string dominoes) {
